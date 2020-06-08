@@ -10,6 +10,6 @@ More with autonomous agents and steering behaviors. Adapting processing code fro
 
 [particles with behavior function to accumulate forces](https://editor.p5js.org/greggelong/present/PKJxeOjtN)
 
-This version has the behavior function to accumulate forces. Each vehicle, here a tadpole, tries to ignore every other tadpole and seek or avoid the mouse at the same time. An average steering force for avoiding multiple tadpoles  in a certian radius is is caculated and returned in a function called dontTouch().  
+This version has the behavior function to accumulate forces. Each vehicle, here a tadpole, tries to ignore every other tadpole and seek or avoid the mouse at the same time. An average steering force for avoiding multiple tadpoles  in a certian radius is  caculated and returned in a function called dontTouch().  
 
 [Tadpole with behvior function to accumulate forces](https://editor.p5js.org/greggelong/present/vskdpXk3k)
