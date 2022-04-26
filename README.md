@@ -6,7 +6,7 @@ Moving from simple particles being acted on by forces in the environment to auto
 
 [Simple vehicle no behavior function](https://editor.p5js.org/greggelong/present/cwjYbjhu9)
 
-https://greggelong.github.io/vehicles/simpleVehicleNoBehavForceInSketch
+[click here!](https://greggelong.github.io/vehicles/simpleVehicleNoBehavForceInSketch)
 
 ![vehicles](vehicles.png)
 
@@ -14,10 +14,10 @@ More with autonomous agents and steering behaviors. Adapting processing code fro
 
 [particles with behavior function to accumulate forces](https://editor.p5js.org/greggelong/present/PKJxeOjtN)
 
-https://greggelong.github.io/vehicles/particlesBehaviorFunctionTrail
+[click here!](https://greggelong.github.io/vehicles/particlesBehaviorFunctionTrail)
 
 This version has the behavior function to accumulate forces. Each vehicle, here a tadpole, tries to ignore every other tadpole and seek or avoid the mouse at the same time. An average steering force for avoiding multiple tadpoles  in a certian radius is  caculated and returned in a function called dontTouch().  
 
 [Tadpole with behvior function to accumulate forces](https://editor.p5js.org/greggelong/present/vskdpXk3k)
 
-https://greggelong.github.io/vehicles/tadpoleBehaviorFunction
+[click Here!](https://greggelong.github.io/vehicles/tadpoleBehaviorFunction)
